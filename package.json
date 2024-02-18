@@ -1,0 +1,20 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "pinaww",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
